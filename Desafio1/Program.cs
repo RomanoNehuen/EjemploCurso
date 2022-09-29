@@ -15,7 +15,7 @@ namespace Desafio1
             Console.WriteLine(t1.Marca);
             Console.WriteLine(t1.Modelo);
 
-            t1.NumeroTelefonico = 1165809207.ToString();
+            t1.NumeroTelefonico = 9207.ToString();
 
             Console.WriteLine("El numero de telefono es: " + t1.NumeroTelefonico);
 
